@@ -1,0 +1,4 @@
+Download: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
+
+Extract all 9 CSV fi les
